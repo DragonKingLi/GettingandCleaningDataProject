@@ -1,5 +1,5 @@
 This file is used to describe the variables, the data, and any transformations or work that was performed to clean up the data.
-run_analysis.R finishes 5 assignments for this project.</p>
+run_analysis.R finishes 5 assignments for this project.
 
 1. Merge the test and train dataset is using the rbind() function. Those files need to hav the same number of columns and referring to the same column name.
 2. The grep function is used to get those columns with the mean and standard deviation measures.
