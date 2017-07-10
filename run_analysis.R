@@ -60,4 +60,4 @@ library(dplyr)
 tidydata <- group_by(Alldata, activityName, subject)
 tidydata <- summarise_each(tidydata,funs(mean))
 
-write.table(tidydata, file='tidydata.txt', row.names=FALSE)
+write.table(tidydata, file='tidydata.txt', row.name=FALSE)
