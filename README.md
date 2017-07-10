@@ -8,7 +8,7 @@ tidyData.txt: final output (the output data file which contains tidy data
 
 Work steps
 1. Download the raw data file, Unzip the file and save them in working directory                                               
-2. Run the script run_analysis.R. This script can finish all the assignment from the project, including:
+2. Run the script run_analysis.R. This script can finish all the assignment from the project, including:                                                                         
 a. Merges the training and the test sets to create one data set.                                                                                        
 b. Extracts the measurements on the mean and standard deviation for each measurement.                                                                                                  
 c. Uses descriptive activity names to name the activities in the data set                                                                      
