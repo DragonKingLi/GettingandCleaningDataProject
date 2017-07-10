@@ -1,7 +1,7 @@
 This file is part of the assignment for Getting and Cleaning Data Project. The purpose of this project is to write a R script to get and clean the original adata nd prepare tidy data that can be used for later analysis.
 
 Description of files and connection                                                                
-ReadMe.md: description of each files and explain how the scripts work and connected.
+ReadMe.md: description of each files and explain how the scripts work and connected.                                                                                                                                                                                                                          
 CodeBook.md: describes the variables, the data, and any transformations or work to clean up the data.                                                                        
 run_analysis.R: get raw data and clean it to get tidy data.                                                   
 tidyData.txt: final output (the output data file which contains tidy data
